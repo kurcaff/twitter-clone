@@ -84,6 +84,7 @@ The database is configured to run on port **5433** to avoid conflicts with other
 * **Feed:** View tweets from all users in reverse chronological order.
 * **Posting:** Create text-based tweets.
 * **Delete Tweet:** Users can delete their own tweets
-* **Interactions:** * **Like:** Toggle likes on posts.
+* **Interactions:**
+    * **Like:** Toggle likes on posts.
     * **Retweet:** Share posts from other users.
 * **Dynamic Profiles:** Click on any user's name to view their specific profile and tweet history.
